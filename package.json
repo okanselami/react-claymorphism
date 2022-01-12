@@ -1,6 +1,6 @@
 {
   "name": "react_claymorphism",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "react claymorphism component",
   "main": "lib/index.js",
   "module": "lib/index.esm.js",
