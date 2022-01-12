@@ -1,5 +1,9 @@
 React Claymorphism Component
 
+<p align="left">
+  <img width="400" alt="storybook" src="https://user-images.githubusercontent.com/3922369/149135622-85bee7a7-1d6a-4a38-8b24-75d3d330a649.png">
+</p>
+
 Claymorphism is a new UI Design concept created by [Michał Malewicz](https://hype4.academy/articles/design/claymorphism-in-user-interfaces) 
 
 Thanks [codeAdrian](https://github.com/codeAdrian) to inspired me by creation [clay.css](https://github.com/codeAdrian/clay.css/blob/master/README.md)  library
